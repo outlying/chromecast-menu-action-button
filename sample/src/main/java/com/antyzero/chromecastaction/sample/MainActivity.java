@@ -5,8 +5,6 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.antyzero.chromecastaction.R;
-
 public class MainActivity extends ActionBarActivity {
 
     @Override
